@@ -1,0 +1,22 @@
+
+.message {
+  border: 2px solid black;
+  position: relative;
+}
+
+.response {
+  margin-left: 100px;
+  border: 1px solid black;
+}
+
+.App > * {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.reply_button {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
